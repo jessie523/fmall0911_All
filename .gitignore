@@ -1,0 +1,7 @@
+# Project exclude paths
+/fmall-bean/target/
+/fmall-common-util/target/
+/fmall-interface/target/
+/fmall-service-util/target/
+/fmall-web-util/target/
+/gware-manage/target/
